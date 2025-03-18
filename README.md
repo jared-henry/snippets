@@ -6,4 +6,4 @@ My personal collection of code snippets and scripts
 You can quickly download and run the install script with the following command:
 
 ```bash
-curl -sL https://github.com/jared-henry/snippets/bin/_install.sh | bash
+curl -sL https://raw.githubusercontent.com/jared-henry/snippets/main/bin/_install.sh | bash
