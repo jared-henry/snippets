@@ -4,7 +4,7 @@
 
 # -------- CONFIGURATION --------
 # Update this URL with your snippets repository URL
-REPO_URL="https://github.com/yourusername/snippets.git"
+REPO_URL="git@github.com:jared-henry/snippets.git"
 # Where to clone the repository
 TARGET_DIR="$HOME/snippets"
 # Directory where your executable scripts are stored
